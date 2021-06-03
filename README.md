@@ -1,5 +1,7 @@
 # Dev.Finance$
 
+<img alt="DevFinances" title="DevFinances" src="https://raw.githubusercontent.com/Luiz091/DevFinances/main/assets/dev_finances.JPG"/>
+
 ### _Maratona Discover Rocketseat_ 
 
 Projeto desenvolvido durante a maratona ministrada pelo instrutor **Mayk Brito**.
